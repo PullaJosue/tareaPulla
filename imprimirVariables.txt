@@ -1,0 +1,22 @@
+11. EL OPERADOR MAS (+) EN JAVA TIENE DOS FUNCIONES: CONCATENAR TEXTO (UNIRLO) Y SUMAR NÚMEROS. 
+AL COMBINAR TEXTO Y NÚMEROS, JAVA CONVIERTE LOS NÚMEROS EN TEXTO A MENOS QUE SE USEN PARÉNTESIS ( ) 
+PARA FORZAR LA OPERACIÓN MATEMÁTICA PRIMERO.
+
+String name = "John";
+Sistema.fuera.imprimir("Hello " + name);
+
+String firstName = "John ";
+String lastName = "Doe";
+String fullName = firstName + lastName;
+Sistema.fuera.imprimir(fullName);
+
+int x = 5;
+int y = 6;
+Sistema.fuera.imprimir(x + y); // Imprime el valor de x + y
+
+int x = 5;
+int y = 6;
+
+Sistema.fuera.imprimir("La suma es " + x + y);   // Imprime: La suma es 56
+Sistema.fuera.imprimir("La suma es " + (x + y)); // Imprime: La suma es 11
+

@@ -1,0 +1,15 @@
+12. EN JAVA ES POSIBLE DECLARAR VARIAS VARIABLES DEL MISMO TIPO EN UNA SOLA 
+LÍNEA SEPARÁNDOLAS CON COMAS (COMO INT X = 5, Y = 6, Z = 50;) O ASIGNAR UN MISMO VALOR 
+A VARIAS VARIABLES AL MISMO TIEMPO (COMO X = Y = Z = 50;). AUNQUE AHORRA ESPACIO, ESCRIBIR UNA VARIABLE POR LÍNEA PUEDE
+ MEJORAR LA LEGIBILIDAD.
+
+ int x = 5;
+int y = 6;
+int z = 50;
+System.out.println(x + y + z); // 61
+int x = 5, y = 6, z = 50;
+System.out.println(x + y + z); // 61
+
+int x, y, z;
+x = y = z = 50;
+System.out.println(x + y + z); // 150

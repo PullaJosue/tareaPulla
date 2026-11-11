@@ -1,0 +1,9 @@
+3. JAVA PPRIMEROS PASOS
+   EN ESTE APARTADO NO MUESTRA UN PASO A PASO DE COMO INSTALAR LA APP Y TAMBIEN NOS DA UNA INTRODUCCION 
+   RAPIDA SE COMO EMPEZAR A ESCRIBIR UN CODIGO
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}

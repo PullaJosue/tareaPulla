@@ -1,0 +1,9 @@
+6. DESAFIOS DEL CODIGO
+  PARA RESOLVER ESTE RETO, DEBEMOS ESCRIBIR LA SENTENCIA System.out.println("¡Hola, Java!"); DENTRO DEL MÉTODO main(), ASEGURANDONOS DE AGRAGAR EL PUNTO Y COMA PARA 
+  QUE EL COMPILADOR NO ARROJE ERROR
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello, Java!");
+  }
+}

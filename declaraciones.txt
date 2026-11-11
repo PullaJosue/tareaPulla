@@ -1,0 +1,6 @@
+5. DECLARACIONES
+   UN PROGRAMA DE JAVA ES UNA LISTA DE SENTENCIAS QUE SE EJECUTAN EN ORDEN Y DEBEN TERMINAR SIEMPRE CON UN PUNTO Y COMA.
+
+System.out.println("Hello World!");
+System.out.println("Have a good day!");
+System.out.println("Learning Java is fun!");

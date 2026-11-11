@@ -1,0 +1,15 @@
+14. LOS IDENTIFICADORES SON NOMBRES ÚNICOS PARA LAS VARIABLES EN JAVA. DEBEN COMENZAR CON UNA LETRA, 
+MINÚSCULA, GUION BAJO O SIGNO DE DÓLAR, DISTINGUEN MAYÚSCULAS DE MINÚSCULAS Y NO PUEDEN CONTENER ESPACIOS, 
+COMENZAR CON NÚMEROS NI USAR PALABRAS RESERVADAS COMO INT.
+ SE RECOMIENDA USAR NOMBRES DESCRIPTIVOS.
+
+ // Bien
+int minutosPorHora = 60;
+
+// Vale, pero no es tan fácil entender qué m en realidad lo es
+int m = 60;
+
+// Identificadores no válidos:
+int 2ndNumero = 5;  // No se puede empezar con un dígito
+int mi var = 10;    // No puede contener espacios
+int int = 20;       // No se pueden utilizar palabras clave reservadas

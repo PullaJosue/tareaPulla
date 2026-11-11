@@ -1,0 +1,10 @@
+2. INTRODUCCUION JAVA
+   EN ESTE APARTADO NO ENSEÑA A COMO PRESENTAR UN NOMBRE YA INGRESADO POR PANTALLA,
+   TAMBIEN NOS EXPLICA COMO E USA JAVA Y PARA QUE SIRVE
+
+public class Main {
+  public static void main(String[] args) {
+    String name = "John";
+    System.out.println("Hello " + name);
+  }
+}

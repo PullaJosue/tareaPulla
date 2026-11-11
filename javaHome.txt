@@ -1,0 +1,9 @@
+1. JAVA INICIO
+   EN ESTE APARTAD NOS DA UNA BREVE EXPLICACION DE COMO FUNCIONA JAVA CON UN 
+   "HELLO WORD" PARA EMPEZAR A APPRENDER EN ESTE
+
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}

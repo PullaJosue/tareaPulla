@@ -1,0 +1,6 @@
+7. IMPRIMIR TEXTO
+   PARA IMPRIMIR TEXTO EN JAVA SE UTILIZA EL MÉTODO System.out.println(), CADA INSTRUCCIÓN AGREGA UNA NUEVA LÍNEA Y EL TEXTO DEBE ESTAR SIEMPRE ENTRE COMILLAS DOBLES PARA EVITAR ERRORES DE SINTAXIS.
+
+   System.out.println("Hello World!");
+   System.out.println("I am learning Java.");
+   System.out.println("It is awesome!");

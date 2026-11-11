@@ -1,0 +1,9 @@
+9. COMENTARIOS DE JAVA 
+    Los comentarios pueden utilizarse para explicar el código Java y hacerlo más legible. También pueden usarse para impedir la ejecución al probar código alternativo.
+    Los comentarios de una sola línea comienzan con dos barras inclinadas ( //).
+
+    Cualquier texto que se encuentre entre //y el final de la línea es ignorado por Java (no se ejecutará).
+
+    // This is a comment
+    System.out.println("Hello World");
+    System.out.println("Hello World"); // This is a comment

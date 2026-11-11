@@ -1,0 +1,15 @@
+8. IMPRIMIR NUMEROS 
+   PARA IMPRIMIR NÚMEROS EN JAVA NO SE USAN COMILLAS DOBLES Y SE PUEDEN REALIZAR CÁLCULOS MATEMÁTICOS DIRECTAMENTE DENTRO DEL MÉTODO. LAS RESPUESTAS DE LOS EJEMPLOS SON:
+       3
+       358
+        50000
+        3 + 3 = 6
+        2 * 5 = 10
+
+        System.out.println(3);
+    System.out.println(358);
+    System.out.println(50000);
+
+    System.out.println(3 + 3);
+
+    System.out.println(2 * 5);
